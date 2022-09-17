@@ -10,7 +10,7 @@
 ## Description: Fix initialization on Japanese environments
 ## APIVersion: 100033
 ## Author: @tdenc [NA]
-## Version: 0.0.1
+## Version: 2.0.5.1
 ## DependsOn: AsylumTracker
 
 src/Settings.lua
