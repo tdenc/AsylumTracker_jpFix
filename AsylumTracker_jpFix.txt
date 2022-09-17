@@ -8,9 +8,9 @@
 
 ## Title: |cff0096Asylum Tracker jpFix|r
 ## Description: Fix initialization on Japanese environments
-## APIVersion: 100033
+## APIVersion: 101035
 ## Author: @tdenc [NA]
-## Version: 2.0.5.1
+## Version: 2.0.5.2
 ## DependsOn: AsylumTracker
 
 src/Settings.lua
